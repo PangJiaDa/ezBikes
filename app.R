@@ -18,7 +18,7 @@ library(leaflet.extras)
 library(tidyverse)
 library(shinyjs)
 library(fontawesome)
-register_google(key = "AIzaSyAHdFzjl2vPMziMw9V5c6YF4H1npM99pW8", write = T)
+register_google(key = "INSERT YOUR GOOGLE KEY HERE", write = T)
 
 #--------------------------------------- UI ---------------------------------------
 ui <- navbarPage(
